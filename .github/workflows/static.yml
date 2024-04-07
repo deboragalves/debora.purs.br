@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PetShop</title>
+    <style>
+        /* Estilos opcionais para o cabeçalho */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>PetShop</h1>
+    <nav>
+        <a href="index.html">Página Inicial</a>
+        <a href="compras_online.html">Compras Online</a>
+        <a href="alimentacao.html">Alimentação</a>
+        <a href="higiene.html">Higiene</a>
+        <a href="farmacia.html">Farmácia</a>
+        <a href="acessorios.html">Acessórios</a>
+        <a href="nossos_servicos.html">Nossos Serviços</a>
+        <a href="cadastro_cliente.html">Cadastro Cliente</a>
+        <a href="cadastro_pet.html">Cadastro Pet</a>
+        <a href="carrinho_compras.html">Carrinho de Compras</a>
+    </nav>
+</header>
+
+</body>
+</html>
