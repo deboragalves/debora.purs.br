@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualização de Produtos</title>
+    <style>
+        /* Estilos opcionais para a visualização do produto */
+        .produto {
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin: 20px;
+            padding: 10px;
+            text-align: center;
+            display: inline-block;
+        }
+        .produto img {
+            width: 200px;
+            height: 200px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="produto">
+    <img src="https://cdn.awsli.com.br/600x1000/806/806328/produto/44276479/zenpet_racoes_pro-carnivoros-rglrj79o0e.jpg" alt="Ração Seca para Cachorro">
+    <h2>Ração Super Premium Natural</h2>
+    <p>Feita com ingredientes deliciosos.</p>
+    <p>Composição: frango, batata-doce, brócolis, cenoura e arroz integral.</p>
+    <p><strong>SuperPremium Gatos</strong></p>
+    <p>7,5 Kg</p>
+    <p><strong>R$ 309,00</strong></p>
+</div>
+
+<div class="produto">
+    <img src="https://bichospet.com.br/uploads/produto_fotos/2_20230217153604_25937.png" alt="Ração Seca para Gatos">
+    <h2>Ração Super Premium Natural</h2>
+    <p>Feita com ingredientes deliciosos.</p>
+    <p>Composição: frango, batata-doce, brócolis, cenoura e arroz integral.</p>
+    <p><strong>SuperPremium Gatos</strong></p>
+    <p>7,5 Kg</p>
+    <p><strong>R$ 309,00</strong></p>
+</div>
+
+<div class="produto">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rn7gby7jCSwY0hX_XUV8if1cxHcyBI9nRKtw6k1_Hw&s" alt="Ração Úmida para Gatos">
+    <h2>Ração Úmida para Gatos</h2>
+    <p>Descrição da ração úmida para gatos.</p>
+    <p>Composição: informação sobre os ingredientes.</p>
+    <p><strong>SuperPremium Gatos</strong></p>
+    <p>Peso</p>
+    <p><strong>Preço</strong></p>
+</div>
+
+<div class="produto">
+    <img src="https://m.media-amazon.com/images/I/81O3K3SH8zL._AC_UF1000,1000_QL80_.jpg" alt="Ração Úmida para Cachorros">
+    <h2>Ração Úmida para Cachorros</h2>
+    <p>Descrição da ração úmida para cachorros.</p>
+    <p>Composição: informação sobre os ingredientes.</p>
+    <p><strong>SuperPremium Cachorros</strong></p>
+    <p>Peso</p>
+    <p><strong>Preço</strong></p>
+</div>
+
+</body>
+</html>
