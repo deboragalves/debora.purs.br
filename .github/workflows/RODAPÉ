@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rodapé</title>
+    <style>
+        /* Estilos opcionais para o rodapé */
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<footer>
+    <p>PREZIOSO @2024 - Av. Casa dos Animais, Nº01 - São Paulo - CEP: 00000000 - Telefone: 4545-8900</p>
+</footer>
+
+</body>
+</html>
